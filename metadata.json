@@ -1,0 +1,6 @@
+{
+  "name": "My Private Gallery",
+  "description": "A secure, privacy-first Android photo and video gallery with local storage, albums, and PIN-protected private vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
